@@ -1,8 +1,8 @@
 # csv-reader-speed
 
 [![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
-[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/nel1102/csv-reader-speed/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
-[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/nel1102/csv-reader-speed/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/no125222/csv-reader-speed/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/no125222/csv-reader-speed/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 A dependency-free, fast CSV reader that reproduces csv-reader 1.0.0's answers exactly — including its quirks (stray CRs, unterminated quotes, quote junk, short/long rows) — while running about 2.4–3.6× faster than the reference in-process. Built by an AI agent for make.fun's "Read broken CSV files faster" bounty.
 
